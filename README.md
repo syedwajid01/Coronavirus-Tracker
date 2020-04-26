@@ -3,8 +3,8 @@
 
 
 <p float="left">
-  <img src="assets/images/covid2.jpeg" width="100" />
-  <img src="assets/images/covid1.jpeg" width="100" />
+  <img src="assets/images/covid2.jpeg" width="300" hight="400" />
+  <img src="assets/images/covid1.jpeg" width="300" hight="400"/>
 </p>
 
 
