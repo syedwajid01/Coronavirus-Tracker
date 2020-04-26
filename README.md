@@ -1,11 +1,14 @@
 # Coronavirus REST API Flutter App
 
+
+
+<p float="left">
+  <img src="assets/images/covid2.jpeg" width="100" />
+  <img src="assets/images/covid1.jpeg" width="100" />
+</p>
+
+
 ## Note about files in .gitignore
-
-<img src="assets/images/covid2.jpeg">
-<img src="assets/images/covid1.jpeg">
-
-
 The following files contain API keys and are not included in the repository:
 
 - `.vscode/settings.json`
